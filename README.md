@@ -1,4 +1,4 @@
-# Bali-Rocket 🚀
+# DBM - Project
 
 Un projet collaboratif pour créer une fusée artisanale propulsée au KNO₃ + sucre.
 Objectif : Lancer, suivre et documenter chaque vol/test jusqu'à atteindre 100m+ de vol contrôlé.
